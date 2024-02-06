@@ -4,14 +4,13 @@ The User Authentication feature is designed to ensure secure access to the Progr
 Key Functionalities:
 
 User Registration:
-
 Allows new users to create accounts with unique credentials.
 Captures essential user information for role-specific access.\
-User Login:
 
+User Login:
 Provides a secure login mechanism for authenticated users.
 Verifies user credentials against stored records in the system.\
-Password Recovery:
 
+Password Recovery:
 Supports password recovery for users who may forget their login credentials.
 Utilizes secure methods such as email verification for account recovery.
