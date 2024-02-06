@@ -7,3 +7,10 @@ The Progress Tracking System Development Phase focuses on improving workflow eff
 6431503016 NAPHAT CHAIYASANG\
 6431503055 WITSAKON LOTHANARUNGROT\
 6431503077 KRITSAKORN RITTIDETCH
+
+## Features
+Progress Visualization\
+Responsibility Assignment\
+Role-Specific Interfaces\
+Task Prioritization\
+User Authentication
