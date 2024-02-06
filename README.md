@@ -3,14 +3,14 @@ The development and implementation of the Progress Tracking System Development P
 
 The Progress Tracking System Development Phase focuses on improving workflow efficiency through features such as role-specific interfaces and iterative development. Usability testing and user feedback validate the system's user-friendly nature, underlining its positive reception within the organizational context. This research emphasizes the importance of adaptive solutions in addressing dynamic organizational needs, ultimately contributing to a more streamlined and effective work environment.
 ## Members
-6431503004 KITTINARIN NAJAI\
-6431503016 NAPHAT CHAIYASANG\
-6431503055 WITSAKON LOTHANARUNGROT\
-6431503077 KRITSAKORN RITTIDETCH
+6431503004 Kittinarin NajaiI\
+6431503016 Naphat Chaitasang\
+6431503055 Witsakon Lothanarungrot\
+6431503077 Kritsakorn Rittideth
 
 ## Features detail in branch
-Progress Visualization by KRITSAKORN\
-Responsibility Assignment by KITTINARIN\
-Role-Specific Interfaces by WITSAKON\
-Task Prioritization by NAPHAT\
-User Authentication by NAPHAT
+Progress Visualization by Kritsakorn\
+Responsibility Assignment by Kittinarin\
+Role-Specific Interfaces by Witsakon\
+Task Prioritization by Naphat\
+User Authentication by Naphat
