@@ -9,8 +9,8 @@ The Progress Tracking System Development Phase focuses on improving workflow eff
 6431503077 KRITSAKORN RITTIDETCH
 
 ## Features detail in branch
-Progress Visualization\
-Responsibility Assignment\
-Role-Specific Interfaces\
-Task Prioritization\
-User Authentication
+Progress Visualization by KRITSAKORN\
+Responsibility Assignment by KITTINARIN\
+Role-Specific Interfaces by WITSAKON\
+Task Prioritization by NAPHAT\
+User Authentication by NAPHAT
