@@ -1,11 +1,17 @@
-# Project -title
-explain your project here
-## Members
-list out your member ID and name.
+Feature : User AuthenticationFeature 
+The User Authentication feature is designed to ensure secure access to the Progress Tracking System. It enables users to register, log in, and recover their passwords, providing a robust authentication system for project managers, system analysts, developers, and testers.
 
-## Instruction
-You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
-- Edit readme file that briefly explains your project and details of members.​ 
-- Create folder structure and some source code to prepare for development
-- Decide what features to roll out and who is responsible for it.​ Create branches for each feature. Explain each feature in Readme file in their own branch​ 
-- Create Docker file for your deployment of your application 
+Key Functionalities:
+
+User Registration:
+
+Allows new users to create accounts with unique credentials.
+Captures essential user information for role-specific access.
+User Login:
+
+Provides a secure login mechanism for authenticated users.
+Verifies user credentials against stored records in the system.
+Password Recovery:
+
+Supports password recovery for users who may forget their login credentials.
+Utilizes secure methods such as email verification for account recovery.
