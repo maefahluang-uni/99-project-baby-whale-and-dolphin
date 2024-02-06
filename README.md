@@ -1,4 +1,4 @@
-Feature : User AuthenticationFeature\
+## Feature : User AuthenticationFeature
 The User Authentication feature is designed to ensure secure access to the Progress Tracking System. It enables users to register, log in, and recover their passwords, providing a robust authentication system for project managers, system analysts, developers, and testers.
 
 Key Functionalities:
