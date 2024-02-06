@@ -8,7 +8,7 @@ The Progress Tracking System Development Phase focuses on improving workflow eff
 6431503055 WITSAKON LOTHANARUNGROT\
 6431503077 KRITSAKORN RITTIDETCH
 
-## Features
+## Features detail in branch
 Progress Visualization\
 Responsibility Assignment\
 Role-Specific Interfaces\
