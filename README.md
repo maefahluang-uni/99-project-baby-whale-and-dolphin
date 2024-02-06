@@ -5,11 +5,11 @@ Key Functionalities:
 
 User Registration:
 Allows new users to create accounts with unique credentials.
-Captures essential user information for role-specific access.\
+Captures essential user information for role-specific access.
 
 User Login:
 Provides a secure login mechanism for authenticated users.
-Verifies user credentials against stored records in the system.\
+Verifies user credentials against stored records in the system.
 
 Password Recovery:
 Supports password recovery for users who may forget their login credentials.
