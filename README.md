@@ -3,7 +3,7 @@ The development and implementation of the Progress Tracking System Development P
 
 The Progress Tracking System Development Phase focuses on improving workflow efficiency through features such as role-specific interfaces and iterative development. Usability testing and user feedback validate the system's user-friendly nature, underlining its positive reception within the organizational context. This research emphasizes the importance of adaptive solutions in addressing dynamic organizational needs, ultimately contributing to a more streamlined and effective work environment.
 ## Members
-6431503004 Kittinarin NajaiI\
+6431503004 Kittinarin Najai\
 6431503016 Naphat Chaitasang\
 6431503055 Witsakon Lothanarungrot\
 6431503077 Kritsakorn Rittideth
